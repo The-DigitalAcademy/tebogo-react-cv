@@ -34,11 +34,11 @@ export const personalDetails = {
   name: "Tebogo Seakgoe",
   tagline: "Web Developer Programmer",
   img: profile,
-  about: `I am a first-time study Web Developer here in DA for 1 years and I was inspired
-  to learn many things about IT Programming I was Struggling to work hard and teamwork
-  support each other and I improve my skills. I dream to want to become teaching children 
-  how to skill hands with computer IT and we want to empower individuals to get the skills
-  for them.`,
+  about: `I am highly motivated junior full-stack developer with experience in building 
+  applications. Proficient in HTML, CSS, JavaScript, React.js , Node.js, Express.js and MongoDB. 
+  I have repeatedly demonstrated my capacity to meet deadlines accomplish task goals and prioritize important activities. 
+  I'm seeking to join a dynamic team where I can utilize my skills and learn more to grow in my career, also am open for any kind of job 
+  as I'm a fast learner.`,
 };
 
 // Enter your Social Media URLs here
