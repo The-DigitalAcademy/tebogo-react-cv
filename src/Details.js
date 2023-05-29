@@ -35,7 +35,7 @@ export const personalDetails = {
   tagline: "Web Developer Programmer",
   img: profile,
   about: `I am highly motivated junior full-stack developer with experience in building 
-  applications. Proficient in HTML, CSS, JavaScript, React.js , Node.js, Express.js and MongoDB. 
+  applications. Proficient in HTML, CSS, JavaScript, React.js, Node.js, Express.js and MongoDB. 
   I have repeatedly demonstrated my capacity to meet deadlines accomplish task goals and prioritize important activities. 
   I'm seeking to join a dynamic team where I can utilize my skills and learn more to grow in my career, also am open for any kind of job 
   as I'm a fast learner.`,
