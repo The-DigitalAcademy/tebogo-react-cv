@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tebogo-react-cv/static/css/main.b45ad744.css",
-    "main.js": "/tebogo-react-cv/static/js/main.b8cc2265.js",
+    "main.css": "/tebogo-react-cv/static/css/main.8e996bdf.css",
+    "main.js": "/tebogo-react-cv/static/js/main.a6bd8822.js",
     "static/media/tebogo.jpeg": "/tebogo-react-cv/static/media/tebogo.5fd649071e1013475d14.jpeg",
     "static/media/project2.jpg": "/tebogo-react-cv/static/media/project2.5fae296d371cc56cd98a.jpg",
     "static/media/project4.jpg": "/tebogo-react-cv/static/media/project4.a7b7ed11daa072b234eb.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo2.svg": "/tebogo-react-cv/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
     "static/media/project6.jpg": "/tebogo-react-cv/static/media/project6.a22c939898d6c4613b65.jpg",
     "index.html": "/tebogo-react-cv/index.html",
-    "main.b45ad744.css.map": "/tebogo-react-cv/static/css/main.b45ad744.css.map",
-    "main.b8cc2265.js.map": "/tebogo-react-cv/static/js/main.b8cc2265.js.map"
+    "main.8e996bdf.css.map": "/tebogo-react-cv/static/css/main.8e996bdf.css.map",
+    "main.a6bd8822.js.map": "/tebogo-react-cv/static/js/main.a6bd8822.js.map"
   },
   "entrypoints": [
-    "static/css/main.b45ad744.css",
-    "static/js/main.b8cc2265.js"
+    "static/css/main.8e996bdf.css",
+    "static/js/main.a6bd8822.js"
   ]
 }
